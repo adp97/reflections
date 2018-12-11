@@ -1,1 +1,10 @@
 Imagine  trust on a network. Everything that blockchain does for bitcoin is now transferred and re-implemented for promoting trust and better visibility. Improved fact checking and more access to trustworthy stories and information. Also an open space to discuss the issues of the day, interact and learn. 
+
+
+This is a branch to learn git and GitHub. right now we are on an experimental branch to do so. Branches are created to experiment with what we already have on the master. If the branch works out we can add it to the main master by merging. 
+
+git diff  (working dir and staging area comparison)
+
+git diff --staged (staging area and repo comparison)
+
+git diff commit_id1 commit_id2  (comparison between commitsw)
